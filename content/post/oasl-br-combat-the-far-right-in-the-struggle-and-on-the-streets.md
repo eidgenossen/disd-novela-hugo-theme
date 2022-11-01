@@ -12,6 +12,7 @@ date: 2022-10-17T23:00:00+00:00
 hero: "/images/sinpeem3.jpg"
 
 ---
+
 The election of Jair Bolsonaro, in 2018, was a gamble by the ruling classes to advance the neoliberal economic project, radically weakening the living conditions of the population. The approval of the Pension Reform – which, in practice, represents a dismantling of retirement – ​​is an example. Inflation and the rising cost of living skyrocketed, with people becoming increasingly hungry and even resorting to bones to survive!
 
 In addition, during the Covid-19 pandemic, the government adopted a genocidal policy, sabotaging prevention measures and refusing to buy vaccines. Officially, in Brazil, we have more than 600,000 deaths from the disease. How many lives could have been preserved?
