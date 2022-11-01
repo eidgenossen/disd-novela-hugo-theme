@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/oasl-br-combat-the-far-right-in-the-struggle-and-on-the-streets.md
