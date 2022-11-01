@@ -10,7 +10,6 @@ excerpt: OASL participates in the 31st Congress of Sinpeem, a union that represe
   our reading of the national situation and the category. The content follows below.
 date: 2022-10-17T23:00:00+00:00
 hero: "/images/sinpeem3.jpg"
-draft: true
 
 ---
 The election of Jair Bolsonaro, in 2018, was a gamble by the ruling classes to advance the neoliberal economic project, radically weakening the living conditions of the population. The approval of the Pension Reform – which, in practice, represents a dismantling of retirement – ​​is an example. Inflation and the rising cost of living skyrocketed, with people becoming increasingly hungry and even resorting to bones to survive!
